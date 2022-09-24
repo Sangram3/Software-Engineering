@@ -1,0 +1,1 @@
+conn.execute("CREATE TABLE routing_table")

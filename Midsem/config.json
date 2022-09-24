@@ -1,0 +1,7 @@
+{
+    "host": "127.0.0.1",
+    "port": 5050,
+    "db_url": "C:\\Users\\ACER\\Desktop\\FLASK\\Midsem\\sample.db",
+    "log_file": "msg_router_log.log"
+ }
+ 
